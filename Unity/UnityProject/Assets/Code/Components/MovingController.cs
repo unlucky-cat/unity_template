@@ -89,7 +89,7 @@ namespace Assets.Code.Components
 
         protected virtual void OnAfterWallHit(GameObjectEventArgs e)
         {
-            if (AfterWallHit != null) AfterWallHit(this, e);
+            AfterWallHit?.Invoke(this, e);
         }
 
         private void InternalMove(Vector2 dV)
