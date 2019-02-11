@@ -8,7 +8,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>Assets.Code</RootNamespace>
     <ProjectGuid>{5B580621-09B4-68CB-B5F4-5B9DD210A60F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -72,6 +72,7 @@
     <Compile Include="Assets\Code\Components\InputReceivers\AltKeyboardInputReceiver.cs" />
     <Compile Include="Assets\Code\Components\InputReceivers\BaseInputReceiver.cs" />
     <Compile Include="Assets\Code\Components\InputReceivers\KeyboardInputReceiver.cs" />
+    <Compile Include="Assets\Code\Components\LevelManager.cs" />
     <Compile Include="Assets\Code\Components\MovingController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Documents/Git/unity_template/Unity/UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
