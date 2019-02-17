@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 120
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,9 +125,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 480
-        width: 120
-        height: 120
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,7 +135,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60b8ae96772cd6747b8be775b06224af
+      spriteID: e63955d071f19a04c91f1ece420359a9
       vertices: []
       indices: 
       edges: []
@@ -144,10 +144,10 @@ TextureImporter:
       name: little men_1
       rect:
         serializedVersion: 2
-        x: 120
-        y: 480
-        width: 120
-        height: 120
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,7 +155,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bac691fb85ad19a499e10bf52b2e5410
+      spriteID: 5f0e9362e49ae94498098dde19aa4b93
       vertices: []
       indices: 
       edges: []
@@ -164,10 +164,10 @@ TextureImporter:
       name: little men_2
       rect:
         serializedVersion: 2
-        x: 240
-        y: 480
-        width: 120
-        height: 120
+        x: 64
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,7 +175,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04cfd3c062c8c2244a3693e7a4c9b668
+      spriteID: 2519d3cf9c66e0a4db5179284597752b
       vertices: []
       indices: 
       edges: []
@@ -185,9 +185,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 360
-        width: 120
-        height: 120
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,7 +195,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c31e974334f77c84da80188da6e1e68a
+      spriteID: 48da2a2e2baf7874690e1abdf5220b7b
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
       name: little men_4
       rect:
         serializedVersion: 2
-        x: 120
-        y: 360
-        width: 120
-        height: 120
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,7 +215,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d063474e172052143aa7685d0e529866
+      spriteID: a6c4cbf5cd968c84eb2ee7013b7d3c3b
       vertices: []
       indices: 
       edges: []
@@ -224,10 +224,10 @@ TextureImporter:
       name: little men_5
       rect:
         serializedVersion: 2
-        x: 240
-        y: 360
-        width: 120
-        height: 120
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,7 +235,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d5197b8b5a550f47bf2cb9a5936838c
+      spriteID: 41478d7d7c615114d8d0094487c2baa5
       vertices: []
       indices: 
       edges: []
@@ -245,9 +245,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 240
-        width: 120
-        height: 120
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,7 +255,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e66ff8240762f0f42929ccf5586aadf1
+      spriteID: e29e5a3971a14084aa121ecad2658265
       vertices: []
       indices: 
       edges: []
@@ -264,10 +264,10 @@ TextureImporter:
       name: little men_7
       rect:
         serializedVersion: 2
-        x: 120
-        y: 240
-        width: 120
-        height: 120
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,7 +275,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba36c08391a59ad42ad928257aa9c29d
+      spriteID: da20af95a092e8944857d4a9831c2329
       vertices: []
       indices: 
       edges: []
@@ -284,10 +284,10 @@ TextureImporter:
       name: little men_8
       rect:
         serializedVersion: 2
-        x: 240
-        y: 240
-        width: 120
-        height: 120
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,7 +295,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02c39ea51a5de1a418806e5958ee11ef
+      spriteID: 0d0462441e3d3c541bedd6e6af65aa3f
       vertices: []
       indices: 
       edges: []
@@ -305,9 +305,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 120
-        width: 120
-        height: 120
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,7 +315,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0d520b28120abf4d9a54362d12b8955
+      spriteID: 5222fb2224afe9441b7db7273264c9f4
       vertices: []
       indices: 
       edges: []
@@ -324,10 +324,10 @@ TextureImporter:
       name: little men_10
       rect:
         serializedVersion: 2
-        x: 120
-        y: 120
-        width: 120
-        height: 120
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,7 +335,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d34d7fc1db4445443b7a34678af2ad06
+      spriteID: 2cee2d9bc14cc5744abc18e7122f8036
       vertices: []
       indices: 
       edges: []
@@ -344,10 +344,10 @@ TextureImporter:
       name: little men_11
       rect:
         serializedVersion: 2
-        x: 240
-        y: 120
-        width: 120
-        height: 120
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,7 +355,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ef79e2ab46875a4a838be36e79feddc
+      spriteID: 5c163780dbad5334ebc456d87e15aaf1
       vertices: []
       indices: 
       edges: []
@@ -366,8 +366,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 120
-        height: 120
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,7 +375,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c85923ee0dccee4f96fc9815bffb9dc
+      spriteID: c2874aabf9d35244195ae8bd83b0946c
       vertices: []
       indices: 
       edges: []
@@ -384,10 +384,10 @@ TextureImporter:
       name: little men_13
       rect:
         serializedVersion: 2
-        x: 120
+        x: 32
         y: 0
-        width: 120
-        height: 120
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,7 +395,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d7da1b7547ea53448bed89b084e631f
+      spriteID: e08ad97b0882dfe4bae6941ce694abfd
       vertices: []
       indices: 
       edges: []
@@ -404,10 +404,10 @@ TextureImporter:
       name: little men_14
       rect:
         serializedVersion: 2
-        x: 240
+        x: 64
         y: 0
-        width: 120
-        height: 120
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,7 +415,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4dcd5d0a3de5d740a1e1aa34f2af7e3
+      spriteID: 963c43e1de8ace4479fbcaa3dda743c8
       vertices: []
       indices: 
       edges: []
